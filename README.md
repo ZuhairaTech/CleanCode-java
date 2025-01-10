@@ -31,7 +31,7 @@ This project is protected under the **No Modification License**.
 - **No Modifications**: Modifying, redistributing, or creating derivative works based on the content of this repository is strictly prohibited.
 - **Feedback**: You are welcome to comment and provide feedback via GitHub Issues.
 
-For more details, please see the [LICENSE](./LICENSE) file.
+For more details, please see the [LICENSE](./LICENSE.md) file.
 
 ## Usage  
 Feel free to clone this repository and explore the exercises at your own pace.  
