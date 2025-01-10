@@ -16,14 +16,7 @@ Here’s a sneak peek into the repository:
    - Practices is in [exercises folder](./Code-Snippets/Java/src/exercises/)
    - Further answers is in [answers](./Code-Snippets/Java/src/) where the folder name will be mention in exercises related to that folder topics.
    - For example: [GroceryPayment exercises](./Code-Snippets/Java/src/exercises/GroceryPayment.java) have it's answer at [GroceryPayment answer](./Code-Snippets/Java/src/meaningfulnames/GroceryPayment.java)
-
-## Usage  
-Feel free to clone this repository and explore the exercises at your own pace.  
-
-```bash
-git clone https://github.com/ZuhairaTech/CleanCode-java.git
-cd CleanCode-java
-
+   
 ## Contribution
 
 This repository is read-only for code contributions. While you cannot modify the files, I welcome feedback, suggestions, and discussions.
@@ -39,4 +32,12 @@ This project is protected under the **No Modification License**.
 - **Feedback**: You are welcome to comment and provide feedback via GitHub Issues.
 
 For more details, please see the [LICENSE](./LICENSE) file.
+
+## Usage  
+Feel free to clone this repository and explore the exercises at your own pace.  
+
+```bash
+git clone https://github.com/ZuhairaTech/CleanCode-java.git
+cd CleanCode-java
+
 
